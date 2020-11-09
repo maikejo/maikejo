@@ -6,7 +6,7 @@
 I'm a Brazilian Developer Senior/Software Engineer.
 
 Currently I'm focused on
-- 💻 Studying MicroService, Golang, Kafka , Flutter
+- 💻 Studying MicroService, Golang, Flutter , Machine Learning
 
 - 💬 My article :
 - https://medium.com/spring-boot-kubernetes-deploy/spring-boot-micro-servi%C3%A7os-kubernetes-deploy-7caca4d621d2
